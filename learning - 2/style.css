@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(7, 3, 3);
+}
+
+p {
+    color: rgb(180, 42, 0);
+    text-align: center;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#paragraph {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 25px;
+    line-height: normal;  
+}
