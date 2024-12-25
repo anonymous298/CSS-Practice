@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(63, 54, 54);
+}
+
+h1 {
+    color: orangered;
+}
+
+button {
+    color: rgb(255, 161, 127);
+    background-color: rgb(63, 54, 54);
+}
+
+#headingOne {
+    color: green;
+}
+
+#headingTwo {
+    color:chartreuse;
+}
+
+#headingThree {
+    color: aquamarine;
+}
+
+.myClass {
+    color: green;
+}
