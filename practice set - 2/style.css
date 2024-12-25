@@ -1,0 +1,23 @@
+* {
+    font-family: cursive;
+}
+
+body {
+    background-color: black;
+}
+
+#heading {
+    text-align: center;
+    color: rgb(255, 94, 0);
+}
+
+h2 {
+    color: orangered;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+    text-transform: none;
+    font-size: 20px;
+}

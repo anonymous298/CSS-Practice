@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: cursive;
+}
+
+#navbar {
+    background-color: #0f1111;
+    height: 60px;
+}
+
+#logo {
+    font-size: 25px;
+    color: orange;
+    margin-right: 230px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 120px;
+}
+
+a:hover {
+    color: orange;
+    cursor: pointer;
+    
+}
+
+button {
+    background-color: orange;
+    padding: 2px 15px 2px 15px;
+}
+
+/* #box1 {
+    color: black;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 166, 0, 0.507);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+#box2 {
+    color: black;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 115, 0, 0.5);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+#box3 {
+    color: black;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 94, 0, 0.5);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+} */
+
+.boxes {
+    color: black;
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(138, 94, 12);
+}
+
+footer {
+    background-color: #0f1111;
+    text-align: center;
+    margin-top: 483px;
+}
+
+.container {
+    margin-top: 80px;
+}
